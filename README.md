@@ -1,2 +1,3 @@
 # Bike-Sharing-Assignment
-Need to build a linear regression model to know the demand for sharing bikes in COVID 19
+Which variables are significant in predicting the demand for shared bikes.
+How well those variables describe the bike demands in COVID 19 situation.
